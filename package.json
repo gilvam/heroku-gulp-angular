@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "devDependencies": {
     "gulp": "~3.9.0"
-
   },
   "dependencies": {
     "bower": "~1.7.1",
@@ -22,7 +21,7 @@
     "karma-angular-filesort": "~1.0.0",
     "karma-coverage": "~0.5.2",
     "karma-jasmine": "~0.3.6",
-    "karma-ng-html2js-prepcessor": "~0.2.0",
+    "karma-ng-html2js-preprocessor": "~0.2.0",
     "karma-phantomjs-launcher": "~0.2.1",
     "lodash": "~3.10.1",
     "main-bower-files": "~2.9.0",
